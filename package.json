@@ -1,0 +1,22 @@
+{
+  "name": "svg-slideshow",
+  "version": "1.0.0",
+  "description": "node.js port of JayFoxRox's svg-slideshow utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorecast162/node-svg-slideshow.git"
+  },
+  "author": "lorecast162",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/lorecast162/node-svg-slideshow/issues"
+  },
+  "homepage": "https://github.com/lorecast162/node-svg-slideshow#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
